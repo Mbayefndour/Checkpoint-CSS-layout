@@ -1,0 +1,154 @@
+.navbar {
+        background-color:white;
+}
+
+.liste1{
+    display: flex;
+    justify-content: right;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    margin-left: 30px;
+    text-decoration: none;
+    
+}
+.department{
+    border: none;
+    background-color: transparent;
+
+}
+
+
+.img1 {
+    margin-top: -3%;
+    margin-inline-start: 10%;
+    
+           
+}
+
+.section1 {
+        padding: 5%;
+        justify-content: center;
+        text-align: center;
+        font-style: inherit;
+        font-size: 200%;
+       
+}
+
+.section1 h1{
+        font-size:2em;
+        margin:.67em 0;
+        font-weight: normal;
+        font-size: 120%;
+        font-style: normal;
+        color: #00CCB1;
+        font-weight: lighter;
+}
+
+.section2 .container1{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        text-align: center;
+        margin-inline:16%;
+        padding: 10px;
+        font-family: serif; 
+        font-weight: lighter;
+        
+}
+
+.section3 .paragraphe {
+        display: inline-flex;
+        margin: 1px;  
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: 200%;
+        font-family: monospace;
+        font-weight: lighter;
+        flex-wrap: nowrap;
+        line-height: 70px;
+        box-sizing: border-box;
+        border-collapse: separate;
+        color: white;
+       
+
+}
+
+.section3 .paragraphe .par1{
+    background:#00CCB1;
+    border-radius: 10px;
+    height: 100%;
+    width: 30% ;
+    margin-inline-start: 5%;
+    text-indent: 10%;
+}
+.section3 .paragraphe .par2{
+    background: rgb(0, 98, 255);
+    border-radius: 10px;
+    height: 100%;
+    width: 30%;    
+    text-indent: 10%;   
+}
+.section3 .paragraphe .par3{
+    background:#1B2734;
+    border-radius: 10px;
+    height:100%;
+    width: 30%;
+    margin-inline-end: 1%;
+    text-indent: 10%;
+}
+.list1{ 
+    text-decoration: none; 
+    display: flex;
+    margin-inline-start: 10%;
+    margin-right: 15%;
+    margin-top: -100%;
+    padding-right: 10%;
+    flex-direction: column;
+
+    
+    
+}
+.section4 .listes{
+    width: 10%;
+    display: inline-flex;
+    margin: 10%;
+    padding-top: -1%;
+    padding-left: 25%;
+    
+}
+
+.section5{
+    max-width: 1300px;
+    width: 80%;
+    height: auto;
+    margin: 30px auto;
+    border: 30px #00CCB1;
+    display: grid;
+}
+.section5 h1{
+    font-size: 200%;
+    font-weight: lighter;
+    margin-inline-start: -50%;
+    color: #00CCB1;
+    font-style: inherit;
+    
+}
+
+.section5 .col-2{
+    width: 300px;
+    margin-left: 50%;
+    background:white;
+
+}
+
+.section6 .p{
+    margin-top: -1%;
+    text-align: center; 
+    display: block;
+     
+}
+
+
